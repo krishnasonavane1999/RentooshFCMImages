@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "774244171739",
+    "firebase_url": "https://rentoosh-fcm.firebaseio.com",
+    "project_id": "rentoosh-fcm",
+    "storage_bucket": "rentoosh-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774244171739:android:c51afb180dfdb63010b1fe",
+        "android_client_info": {
+          "package_name": "phoenix.krishna.rentooshfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774244171739-pc2nodhptkhb5a31fpdr8nd2kd7u4dlc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "phoenix.krishna.rentooshfcm",
+            "certificate_hash": "3babd6dee8259080b74294581f25afe35e49e4b8"
+          }
+        },
+        {
+          "client_id": "774244171739-lnq41db495o4aghi1kpobq7ld6l3ltm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-vHA_nIAztEE_qWai1Un3GxY5h8OxZDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774244171739-lnq41db495o4aghi1kpobq7ld6l3ltm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
